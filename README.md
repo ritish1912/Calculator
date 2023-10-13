@@ -13,5 +13,3 @@ This is a simple calculator functionality achieved using Javascript. The logic i
 - HTML
 - CSS [style/Presentation]
 - Javascript [Logic/Working of calculator]
-
-Learning Git
