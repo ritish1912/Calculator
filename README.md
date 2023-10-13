@@ -13,3 +13,5 @@ This is a simple calculator functionality achieved using Javascript. The logic i
 - HTML
 - CSS [style/Presentation]
 - Javascript [Logic/Working of calculator]
+
+This content belongs to the feature branch
